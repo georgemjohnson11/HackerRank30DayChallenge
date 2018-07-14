@@ -6,7 +6,9 @@ namespace csApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Collections! to leverage Generics
+		 Arrays, ");
+
         }
     }
 }
