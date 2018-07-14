@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda_calendar", "agenda_calendar.csproj", "{D8A2BEB1-5AD1-4A29-A17B-318BD5120FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda_calendar.Tests", "agenda_calendar.Tests\agenda_calendar.Tests.csproj", "{36497612-3C51-42C4-BA31-3BE568E5421B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A2BEB1-5AD1-4A29-A17B-318BD5120FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A2BEB1-5AD1-4A29-A17B-318BD5120FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A2BEB1-5AD1-4A29-A17B-318BD5120FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A2BEB1-5AD1-4A29-A17B-318BD5120FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36497612-3C51-42C4-BA31-3BE568E5421B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36497612-3C51-42C4-BA31-3BE568E5421B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36497612-3C51-42C4-BA31-3BE568E5421B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36497612-3C51-42C4-BA31-3BE568E5421B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
